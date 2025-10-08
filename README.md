@@ -2,6 +2,8 @@
 
 A full-stack web application for tracking gym performance and workouts.
 
+![App Screenshot](docs/images/screenshot.png)
+
 ## Tech Stack
 
 ### Frontend
